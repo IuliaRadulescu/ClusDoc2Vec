@@ -1,0 +1,36 @@
+Metrici spherical k-means pentru datasets/RobertARXIV_TFIDF_lemmatizedWords_6_clusters_no_noise.txt
+0.7537777578726014
+0.7710438593124408
+0.7623130534664228
+0.7188457857166879
+0.7622121084007927
+Metrici k-means pentru datasets/RobertARXIV_TFIDF_lemmatizedWords_6_clusters_no_noise.txt
+0.6848810767079717
+0.6649917397374823
+0.6747898811868811
+0.5800503703769598
+0.674621613332903
+Metrici spherical k-means pentru datasets/RobertARXIV_TFIDF_porterStemmedWords_6_clusters_no_noise.txt
+0.7509195483326815
+0.7663401218573002
+0.758551472078923
+0.7181475749059973
+0.7584490477815244
+Metrici k-means pentru datasets/RobertARXIV_TFIDF_porterStemmedWords_6_clusters_no_noise.txt
+0.6906992054166203
+0.6692641621953039
+0.6798127597419609
+0.589978256225153
+0.6796472636437701
+Metrici spherical k-means pentru datasets/RobertARXIV_TFIDF_lancasterStemmedWords_6_clusters_no_noise.txt
+0.7481288820946849
+0.7633050154953781
+0.7556407578926828
+0.7180032739285966
+0.7555371112878
+Metrici k-means pentru datasets/RobertARXIV_TFIDF_lancasterStemmedWords_6_clusters_no_noise.txt
+0.6842860229847728
+0.6642576595911275
+0.6741231122013767
+0.584570856839093
+0.673954517597124

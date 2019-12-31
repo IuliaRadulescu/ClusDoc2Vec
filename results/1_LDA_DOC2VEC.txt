@@ -1,0 +1,22 @@
+[iulia@bd-server2 ARTICOL_ROBERT]$ /opt/python-3.7.5/bin/python3.7 src/clusteringLDADoc2Vec.py 
+Metrici LDA datasets/RobertARXIV_DOC2VEC_lemmatizedWords_16_dim_6_clusters_no_stop.txt
+0.6246073011318268
+0.5708304170574084
+0.5965092798682177
+0.6072443393119548
+0.5963069598701274
+=============================================
+Metrici LDA datasets/RobertARXIV_DOC2VEC_porterStemmedWords_16_dim_6_clusters_no_stop.txt
+0.675581916380019
+0.6017899256486344
+0.6365544907929382
+0.646963219441998
+0.6363747107913845
+=============================================
+Metrici LDA datasets/RobertARXIV_DOC2VEC_lancasterStemmedWords_16_dim_6_clusters_no_stop.txt
+0.7602060042004073
+0.6847597537760646
+0.7205132348386528
+0.7513741200452146
+0.7203741650755425
+=============================================

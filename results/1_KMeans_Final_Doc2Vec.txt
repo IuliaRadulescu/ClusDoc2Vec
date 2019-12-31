@@ -1,0 +1,36 @@
+Metrici spherical k-means pentru datasets/RobertARXIV_DOC2VEC_lemmatizedWords_16_dim_6_clusters_no_stop.txt
+0.7980051925150287
+0.785454051141162
+0.7916798791048714
+0.833454921895725
+0.7915930981717967
+Metrici k-means pentru datasets/RobertARXIV_DOC2VEC_lemmatizedWords_16_dim_6_clusters_no_stop.txt
+0.7966856138037063
+0.7096783414825426
+0.750669216563638
+0.7496104842029485
+0.7505458829872197
+Metrici spherical k-means pentru datasets/RobertARXIV_DOC2VEC_porterStemmedWords_16_dim_6_clusters_no_stop.txt
+0.7904678546004982
+0.776796066543027
+0.7835723286915902
+0.8224947618732175
+0.7834822431832447
+Metrici k-means pentru datasets/RobertARXIV_DOC2VEC_porterStemmedWords_16_dim_6_clusters_no_stop.txt
+0.7971607454221175
+0.7118861317646932
+0.7521140503085367
+0.7519041910972893
+0.7519912675660512
+Metrici spherical k-means pentru datasets/RobertARXIV_DOC2VEC_lancasterStemmedWords_16_dim_6_clusters_no_stop.txt
+0.7631841406229559
+0.7461095621470322
+0.7545502693779284
+0.7869109167392109
+0.7544483722908913
+Metrici k-means pentru datasets/RobertARXIV_DOC2VEC_lancasterStemmedWords_16_dim_6_clusters_no_stop.txt
+0.7596018681862673
+0.6716111339932632
+0.7129016733345558
+0.6997417548702481
+0.7127602215338159
