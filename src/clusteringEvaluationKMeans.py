@@ -25,7 +25,7 @@ for document in arxivRecordsCursor:
     else:
         categories[document["category"]] = k
         docLabel[str(document['_id'])] = k
-    k = k+1
+        k = k+1
 
 labels = np.array(list(docLabel.values()))
 

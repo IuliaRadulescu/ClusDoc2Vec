@@ -31,9 +31,9 @@ for document in arxivRecordsCursor:
 	else:
 		categories[document["category"]] = k
 		point2class[pointId] = k
+		k = k+1
 	pointId = pointId + 1
-
-	k = k+1
+	
 
 labels = np.array(list(point2class.values()))
 
